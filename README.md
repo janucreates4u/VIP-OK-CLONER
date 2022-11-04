@@ -51,7 +51,7 @@ ____Programming And Memes____
 
 </br>
 <p align="center">
-      FACEBOOK RANDOM ACCOUNTS CLONER
+      FACEBOOK VIP-OK-CLONER
 </p>
 
 #### INSTALL TOOL ON TERMUX
